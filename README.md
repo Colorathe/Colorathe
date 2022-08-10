@@ -1,11 +1,4 @@
-### Hi there 👋
-
-<!--
-**Colorathe/Colorathe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-below code in README.md:
-
----
+### Hi my name is Joaquin Vulcano and I'm a Fronted Developer 👋
 
 ### :woman_technologist: About Me :
 
