@@ -1,4 +1,4 @@
-### Hi my name is Joaquin Vulcano and I'm a Fronted Developer 👋
+### Hi my name is Joaquin Vulcano and I'm a FullStack Developer 👋
 
 ### :woman_technologist: About Me :
 
